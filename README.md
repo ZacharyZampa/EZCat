@@ -5,3 +5,8 @@ Use ProjectCode folder for source code and make sure all code is inside the pack
 
 ## Need help setting up JavaFX?
 Consult this guide: https://docs.google.com/presentation/d/1jpbJqcVdQSH7kz_RfrxE0QjOk7qXu_1mF3RC_xRVsw8/edit?usp=sharing
+
+
+## Videos of Application
+* https://youtu.be/QVvDx4xfnAA
+* https://youtu.be/EXp1YBRT630
